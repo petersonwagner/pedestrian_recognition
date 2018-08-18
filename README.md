@@ -6,8 +6,7 @@
    
    ![databases](databases.jpg)
 ### 2. Implement a function to compute the mean face for both databases
-   ![orl_mean](orl_mean.png)
-   ![yale_mean](yale_mean.png)
+   ![mean](mean.png)
 ### 3. Compute the first five eigenfaces for both databases
 ### 4. Implement the Eigenface and Fisherface method
 ### 5. Use a cross-validation scheme of leave-one-"expression or lighting" for the Yace Face Database.
