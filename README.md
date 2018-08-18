@@ -8,6 +8,8 @@
 ### 2. Implement a function to compute the mean face for both databases
    ![mean](mean.png)
 ### 3. Compute the first five eigenfaces for both databases
+   ![orl_eigenface](orl_eigenface.png)
+   ![yale_eigenface](yale_eigenface.png)
 ### 4. Implement the Eigenface and Fisherface method
 ### 5. Use a cross-validation scheme of leave-one-"expression or lighting" for the Yace Face Database.
 ### 6. Use a ten-fold cross-validation scheme and report the mean an stand deviation accuracies for the ORL database.
