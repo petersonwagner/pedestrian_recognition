@@ -3,6 +3,7 @@
 ### 1. Implement codes to load the databases
    - ORL (AT&T) Database -- 10 subjects x 40 images, each one with 92x112 pixels and 256 grey levels
    - The Yale Face Database -- 15 subjects x 11 images, each one with 320 x 243 pixels
+   
    ![databases](databases.jpg)
 ### 2. Implement a function to compute the mean face for both databases
    ![orl_mean](orl_mean.png)
