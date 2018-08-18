@@ -14,3 +14,4 @@
 ### 5. Use a cross-validation scheme of leave-one-"expression or lighting" for the Yace Face Database.
 ### 6. Use a ten-fold cross-validation scheme and report the mean an stand deviation accuracies for the ORL database.
 ### 7. Provide a runtime analysis for training and testing
+   ![runtime analysis](runtime analysis.png)
